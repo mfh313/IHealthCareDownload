@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://mfh313.github.io/5BetterDownload/WeiDeCar.ipa</string>
+					<string>https://mfh313.github.io/IHealthCareDownload/IHealthCare.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>cn.mafanghua.WeiDeCar</string>
+				<string>cn.IHealthCare.temp</string>
 				<key>bundle-version</key>
 				<string>1.1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>维德专修</string>
+				<string>爱无界官方</string>
 			</dict>
 		</dict>
 	</array>
